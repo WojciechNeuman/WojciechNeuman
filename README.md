@@ -6,4 +6,4 @@ Kontakt:
 * wojciech.neuman@gmail.com
 * neuman@student.agh.edu.pl
 
-[Link do mojej strony](WojciechNeuman.github.io)
+[Link do mojej strony](wojciechneuman.github.io)
