@@ -1,6 +1,6 @@
 ## Witam serdecznie
 
-Jestem studentem **AGH** na kierunku _Informatyka i systemy inteligentne_.
+Jestem studentem **AGH** na kierunku _Informatyka i Systemy Inteligentne_.
 
 Kontakt:
 * wojciech.neuman@gmail.com
