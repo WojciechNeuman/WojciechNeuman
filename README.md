@@ -8,4 +8,7 @@ Kontakt:
 
 [Link do mojej strony](https://wojciechneuman.github.io/)
 
-[Link do forka](https://github.com/WojciechNeuman/scikit-learn)
+Aktualnie w wolnych chwilach zajmuję się projektem aplikacji szachowej:
+[ChessApp](https://github.com/WojciechNeuman/ChessApp)
+
+
