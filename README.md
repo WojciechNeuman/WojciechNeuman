@@ -2,8 +2,6 @@
 
 I'm a student on **AGH University of Krakow**, at the **Informatyka i Systemy Inteligentne** (Computer Science and Inteligent Systems) degree. 
 <br>
-<br>
-Currently I'm on the Erasmus Exchange program at the **UPV** in Valencia, exploring the fields of Data Science and AI.
 
 Contact information:
 * wojciech.neuman@gmail.com
