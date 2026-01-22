@@ -9,4 +9,4 @@ Outside of tech, I’m passionate about long-distance running, calisthenics, and
 Contact information:
 * wojciech.neuman@gmail.com
 * neuman@student.agh.edu.pl
-* [LinkedIn](https://www.linkedin.com/in/wojciech-neuman-846239253/)
+* [LinkedIn](https://www.linkedin.com/in/wojciechneuman/)
